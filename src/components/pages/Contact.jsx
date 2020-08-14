@@ -46,7 +46,7 @@ class Contact extends Component {
                             <h2 className="section-heading text-uppercase">Contact Us</h2>
                             <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                         </div>
-                        <form id="contactForm" name="sentMessage" novalidate="novalidate" onSubmit={this.props.handleSubmit}>
+                        <form className="contactForm" name="sentMessage" novalidate="novalidate" onSubmit={this.props.handleSubmit}>
                             <div className="row align-items-stretch mb-5 text-center">
 
                                 {fields

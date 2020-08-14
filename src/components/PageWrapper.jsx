@@ -43,7 +43,7 @@ class PageWrapper extends Component {
                         </div>
                     </div>
                 </nav>
-                 {this.props.children} {/* This is use for visible the childern which is Home.jsx */}
+                  {this.props.children} {/* This is use for visible the childern which is Home.jsx */}
             </div>
         );
     };

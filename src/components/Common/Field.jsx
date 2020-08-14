@@ -11,7 +11,7 @@ class Field extends Component {
                             type={this.props.type}
                             placeholder={this.props.placeholder}
                             required="required"
-                            data-validation-required-message="Please enter your name."
+                            // data-validation-required-message="Please enter your name."
                             name={this.props.name}
                             onChange={this.props.onChange}
                             onBlur={this.props.onBlur}/>
@@ -20,13 +20,13 @@ class Field extends Component {
                         id={this.props.name}
                         placeholder={this.props.placeholder}
                         required="required"
-                        data-validation-required-message="Please enter a message."
+                        // data-validation-required-message="Please enter a message."
                         name={this.props.name}
                         onChange={this.props.onChange}
                         onBlur={this.props.onBlur}/>
 }
                 <p className="help-block text-danger">
-                    {(this.props.touched && this.props.errors) && <span> {this.props.errors} </span>}
+                    {(this.props.touched && this.props.errors) && <span>  {this.props.errors} </span>}
                 </p>
             </div>
         );
