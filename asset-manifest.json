@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-agency-website/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-agency-website/static/js/main.cc82a1ee.chunk.js",
+    "main.js.map": "/react-agency-website/static/js/main.cc82a1ee.chunk.js.map",
+    "runtime-main.js": "/react-agency-website/static/js/runtime-main.9b8eb7fe.js",
+    "runtime-main.js.map": "/react-agency-website/static/js/runtime-main.9b8eb7fe.js.map",
+    "static/js/2.a92f600b.chunk.js": "/react-agency-website/static/js/2.a92f600b.chunk.js",
+    "static/js/2.a92f600b.chunk.js.map": "/react-agency-website/static/js/2.a92f600b.chunk.js.map",
+    "index.html": "/react-agency-website/index.html",
+    "precache-manifest.408a8ab3550d9467d155d2a856817644.js": "/react-agency-website/precache-manifest.408a8ab3550d9467d155d2a856817644.js",
+    "service-worker.js": "/react-agency-website/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-agency-website/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.a92f600b.chunk.js.LICENSE.txt": "/react-agency-website/static/js/2.a92f600b.chunk.js.LICENSE.txt",
+    "static/media/01-thumbnail.jpg": "/react-agency-website/static/media/01-thumbnail.eda45981.jpg",
+    "static/media/02-thumbnail.jpg": "/react-agency-website/static/media/02-thumbnail.e52270b3.jpg",
+    "static/media/03-thumbnail.jpg": "/react-agency-website/static/media/03-thumbnail.09c41872.jpg",
+    "static/media/04-thumbnail.jpg": "/react-agency-website/static/media/04-thumbnail.80c8ff5c.jpg",
+    "static/media/05-thumbnail.jpg": "/react-agency-website/static/media/05-thumbnail.68d8d949.jpg",
+    "static/media/06-thumbnail.jpg": "/react-agency-website/static/media/06-thumbnail.20456fff.jpg",
+    "static/media/1.jpg": "/react-agency-website/static/media/1.e0b34f6f.jpg",
+    "static/media/2.jpg": "/react-agency-website/static/media/2.cc41e47b.jpg",
+    "static/media/3.jpg": "/react-agency-website/static/media/3.2df43e35.jpg",
+    "static/media/header-bg.jpg": "/react-agency-website/static/media/header-bg.e2d2a51c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b8eb7fe.js",
+    "static/js/2.a92f600b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.cc82a1ee.chunk.js"
+  ]
+}
